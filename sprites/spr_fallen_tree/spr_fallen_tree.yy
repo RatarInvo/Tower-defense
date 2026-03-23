@@ -2,10 +2,10 @@
   "$GMSprite":"v2",
   "%Name":"spr_fallen_tree",
   "bboxMode":0,
-  "bbox_bottom":180,
+  "bbox_bottom":226,
   "bbox_left":0,
   "bbox_right":244,
-  "bbox_top":50,
+  "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -13,6 +13,8 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"v1","%Name":"4f4acf3f-5b41-4afb-8928-ab694af194ad","name":"4f4acf3f-5b41-4afb-8928-ab694af194ad","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"407d1165-d745-4caf-a4cf-10e7bc9002c3","name":"407d1165-d745-4caf-a4cf-10e7bc9002c3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"028c3b22-ff29-4841-9f2c-441936a46e5e","name":"028c3b22-ff29-4841-9f2c-441936a46e5e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -49,7 +51,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":1.0,
+    "length":3.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -71,6 +73,12 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4f4acf3f-5b41-4afb-8928-ab694af194ad","path":"sprites/spr_fallen_tree/spr_fallen_tree.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"ab996bcf-2fbd-4dfb-9cf8-1b9df5890a32","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"407d1165-d745-4caf-a4cf-10e7bc9002c3","path":"sprites/spr_fallen_tree/spr_fallen_tree.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"84bd4880-c2f9-4742-8633-16bf5b6c2a6b","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"028c3b22-ff29-4841-9f2c-441936a46e5e","path":"sprites/spr_fallen_tree/spr_fallen_tree.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"3e655f77-5988-4211-b1f9-8dfa55140633","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
