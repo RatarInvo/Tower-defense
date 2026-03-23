@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":3.0,
+  "duration":0.8532653,
   "exportDir":"",
   "name":"snd_frankenstein_groan_01",
   "parent":{

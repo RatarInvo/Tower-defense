@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":2.401542,
+  "duration":1.3262812,
   "exportDir":"",
   "name":"snd_impact_arc_02",
   "parent":{
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_impact_arc_02.wav",
+  "soundFile":"snd_impact_arc_02.mp3",
   "volume":1.0,
 }

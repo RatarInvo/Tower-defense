@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":3.0,
+  "duration":2.164467,
   "exportDir":"",
   "name":"snd_frankenstein_death_01",
   "parent":{

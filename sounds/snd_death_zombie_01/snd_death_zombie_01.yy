@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":3.0,
+  "duration":2.706508,
   "exportDir":"",
   "name":"snd_death_zombie_01",
   "parent":{

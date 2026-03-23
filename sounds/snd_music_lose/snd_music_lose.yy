@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":6.037125,
+  "duration":6.0,
   "exportDir":"",
   "name":"snd_music_lose",
   "parent":{
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_music_lose.ogg",
+  "soundFile":"snd_music_lose.wav",
   "volume":1.0,
 }

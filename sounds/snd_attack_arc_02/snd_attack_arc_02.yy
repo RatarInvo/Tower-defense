@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":4.348458,
+  "duration":1.7276871,
   "exportDir":"",
   "name":"snd_attack_arc_02",
   "parent":{

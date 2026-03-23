@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":3.0,
+  "duration":0.7369161,
   "exportDir":"",
   "name":"snd_zombie_groan_01",
   "parent":{
