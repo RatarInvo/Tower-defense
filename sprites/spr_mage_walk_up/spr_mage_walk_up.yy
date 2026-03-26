@@ -27,7 +27,7 @@
   ],
   "name":"spr_mage_walk_up",
   "nineSlice":null,
-  "origin":7,
+  "origin":9,
   "parent":{
     "name":"Mage",
     "path":"folders/Sprites/Enemies/Mage.yy",
@@ -92,7 +92,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":75,
-    "yorigin":150,
+    "yorigin":129,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

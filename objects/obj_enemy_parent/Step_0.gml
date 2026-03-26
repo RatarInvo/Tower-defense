@@ -25,11 +25,12 @@ else if (_dir > 235) && (_dir < 315)
 // Otherwise the enemy is moving sideways
 else 
 {
+	
 	// Set the sprite to the sideways sprite
 	sprite_index = walk_side_sprite;
 	
 	// Set the sprite's direction 
-	image_xscale = sign(x - x_previous);
+	image_xscale = -sign(x - x_previous);
 	
 	// Set path speed to normal speed
 	path_speed = my_speed;
