@@ -1,11 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_frankenstein",
+  "%Name":"obj_mage",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_frankenstein",
+  "name":"obj_mage",
   "overriddenProperties":[],
   "parent":{
     "name":"Enemies",
@@ -33,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_frankenstein_walk_side",
-    "path":"sprites/spr_frankenstein_walk_side/spr_frankenstein_walk_side.yy",
+    "name":"spr_mage_walk_side",
+    "path":"sprites/spr_mage_walk_side/spr_mage_walk_side.yy",
   },
   "spriteMaskId":null,
   "visible":true,

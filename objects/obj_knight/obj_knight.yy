@@ -1,12 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_zombie",
+  "%Name":"obj_knight",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_zombie",
+  "name":"obj_knight",
   "overriddenProperties":[],
   "parent":{
     "name":"Enemies",
@@ -34,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_zombie_walk_side",
-    "path":"sprites/spr_zombie_walk_side/spr_zombie_walk_side.yy",
+    "name":"spr_knight_walk_side",
+    "path":"sprites/spr_knight_walk_side/spr_knight_walk_side.yy",
   },
   "spriteMaskId":null,
   "visible":true,
