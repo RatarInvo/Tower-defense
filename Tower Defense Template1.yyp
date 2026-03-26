@@ -230,6 +230,7 @@
     {"id":{"name":"spr_HUD_counter_coins","path":"sprites/spr_HUD_counter_coins/spr_HUD_counter_coins.yy",},},
     {"id":{"name":"spr_HUD_counter_health","path":"sprites/spr_HUD_counter_health/spr_HUD_counter_health.yy",},},
     {"id":{"name":"spr_HUD_counter_wave","path":"sprites/spr_HUD_counter_wave/spr_HUD_counter_wave.yy",},},
+    {"id":{"name":"spr_knight_defeat_down","path":"sprites/spr_knight_defeat_down/spr_knight_defeat_down.yy",},},
     {"id":{"name":"spr_knight_walk_down","path":"sprites/spr_knight_walk_down/spr_knight_walk_down.yy",},},
     {"id":{"name":"spr_knight_walk_side","path":"sprites/spr_knight_walk_side/spr_knight_walk_side.yy",},},
     {"id":{"name":"spr_knight_walk_up","path":"sprites/spr_knight_walk_up/spr_knight_walk_up.yy",},},
