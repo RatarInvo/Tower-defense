@@ -35,5 +35,5 @@ defeat_side_object = obj_frankenstein_defeat_side;//Change to knight when defeat
 defeat_down_object = obj_frankenstein_defeat_down;//Change to knight when defeated sprite is made
 
 // This variable is updated to match the health bar offset to the frankensteins height
-health_offset_y = -190;
+health_offset_y = -100;
 

@@ -4,7 +4,7 @@
 event_inherited();
 
 // This variable holds the cost of the tower
-cost = 30;
+cost = 45;
 
 // This variable holds the tower's range
 range = 260;

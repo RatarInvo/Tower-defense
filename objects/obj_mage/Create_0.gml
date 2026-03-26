@@ -34,5 +34,5 @@ defeat_side_object = obj_zombie_defeat_side;//Change to mage when defeated sprit
 defeat_down_object = obj_zombie_defeat_down;//Change to mage when defeated sprite is made
 
 // This variable is updated to match the health bar offset to the zombies height
-health_offset_y = -170;
+health_offset_y = -100;
 

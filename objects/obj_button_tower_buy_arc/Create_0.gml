@@ -4,7 +4,7 @@
 event_inherited();
 
 // This variable is the cost of buying an arc tower
-cost = 30;
+cost = 45;
 
 // This variable holds which type of tower to create
 my_tower = obj_tower_arc;

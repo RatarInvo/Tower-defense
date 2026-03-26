@@ -11,7 +11,7 @@ event_inherited();
 
 // Set the cost (sell value) to its original cost multiplied by the level plus 1
 // because towers start at level 0
-cost = my_manager.my_tower.cost * (my_manager.my_tower.level + 1);
+cost = ((my_manager.my_tower.cost * (my_manager.my_tower.level + 1)) * 60) div 100;
 
 // Use our custom function to animate this instance using a sequence
 animate_with_sequence("Sequences", x, y, seq_popup_button, obj_button_tower_buy_parent);
