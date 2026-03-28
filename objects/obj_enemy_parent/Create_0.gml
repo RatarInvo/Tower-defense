@@ -53,3 +53,12 @@ defeat_side_object = obj_zombie_defeat_side;
 
 // The defeated enemy to spawn if the enemy is moving down
 defeat_down_object = obj_zombie_defeat_down;
+
+// Remember the starting speed so the math doesn't stack infinitely
+base_speed = my_speed; 
+
+// How fast they heal per frame
+regen_amount = 0.003; 
+
+// How much faster they get (1.0 is double)
+speed_boost = 0.8;

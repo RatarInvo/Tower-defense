@@ -1,5 +1,28 @@
 /// @description Enemy Parent
 
+// Regen
+// Heal the enemy passively
+if (hp < max_hp) {
+    hp += regen_amount; 
+    
+    // Prevent them from healing past their maximum health
+    if (hp > max_hp) {
+        hp = max_hp;
+    }
+}
+
+// Speed boost
+var missing_health = 1.0 - (hp / max_hp);
+
+// Calculate the new dynamic speeds
+my_speed = base_speed + (base_speed * missing_health * speed_boost);
+v_speed = my_speed * 0.6; // Keep vertical speed scaled
+
+// Update the health bar UI
+health_bar = (hp / max_hp) * 100;
+
+
+
 // Get the direction the enemy is moving
 var _dir = point_direction(x_previous, y_previous, x, y);
 
