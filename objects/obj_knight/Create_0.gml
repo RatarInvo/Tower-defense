@@ -28,7 +28,7 @@ walk_up_sprite = spr_knight_walk_up;
 walk_down_sprite = spr_knight_walk_down;
 
 // The defeated enemy to spawn if the enemy is moving down
-defeat_down_object = obj_knight_defeat_down;//Change to knight when defeated sprite is made
+defeat_down_object = obj_knight_defeat_down;
 
 // This variable is updated to match the health bar offset to the frankensteins height
 health_offset_y = -100;

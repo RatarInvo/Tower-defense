@@ -48,11 +48,8 @@ walk_up_sprite = spr_mage_walk_up;
 // This variable holds the sprite to use when the enemy is moving down
 walk_down_sprite = spr_mage_walk_down;
 
-// The defeated enemy to spawn if the enemy is moving sideways
-defeat_side_object = obj_zombie_defeat_side;
-
 // The defeated enemy to spawn if the enemy is moving down
-defeat_down_object = obj_zombie_defeat_down;
+defeat_down_object = obj_mage_defeat_down;
 
 // Remember the starting speed so the math doesn't stack infinitely
 base_speed = my_speed; 
